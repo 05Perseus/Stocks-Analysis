@@ -35,7 +35,7 @@ We accomplished this performance increase with 2 major code changes:
 
 Refactoring the code also incorporated the formatting step to the analysis! So instead of 2 macro buttons we simplified the tool for end users by consolidating it into a 1-step process!
 
-![Original code for 2017](/Resources/2017 Runtime)_Original.png)
+![Original code for 2017](/Resources/2017 Runtime_Original.png)
 
 ![Refactored code for 2017](/Resources/2017 Runtime_Refactored.png)
 
