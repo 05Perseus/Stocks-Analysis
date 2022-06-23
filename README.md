@@ -37,7 +37,7 @@ Refactoring the code also incorporated the formatting step to the analysis! So i
 
 ![Original code for 2017](https://github.com/05Perseus/Stocks-Analysis/blob/main/Resources/2017%20Runtime_Original.png)
 
-![Refactored code for 2017](/Resources/2017 Runtime_Refactored.png)
+![Refactored code for 2017][/Resources/2017 Runtime_Refactored.png]
 
 ![Original code for 2018](/Resources/2018 Runtime_Refactored.png)
 
