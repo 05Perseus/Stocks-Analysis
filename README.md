@@ -35,11 +35,19 @@ We accomplished this performance increase with 2 major code changes:
 
 Refactoring the code also incorporated the formatting step to the analysis! So instead of 2 macro buttons we simplified the tool for end users by consolidating it into a 1-step process!
 
+*The <ins>Original 2017</ins> Runtime*
+
 ![Original code for 2017](https://github.com/05Perseus/Stocks-Analysis/blob/main/Resources/2017%20Runtime_Original.png)
+
+*The <ins>**Refactored 2017**</ins> Runtime*
 
 ![Refactored code for 2017](https://github.com/05Perseus/Stocks-Analysis/blob/main/Resources/2017%20Runtime_Refactored.png)
 
+*The <ins>Original 2018</ins> Runtime*
+
 ![Original code for 2018](https://github.com/05Perseus/Stocks-Analysis/blob/main/Resources/2018%20Runtime_Original.png)
+
+*The <ins>**Refactored 2018**</ins> Runtime*
 
 ![Refactored code for 2018](https://github.com/05Perseus/Stocks-Analysis/blob/main/Resources/2018%20Runtime_Refactored.png)
 
